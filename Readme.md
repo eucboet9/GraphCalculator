@@ -1,13 +1,11 @@
 #GraphCalculator
 
 This is a simple calculator that can:
+
 1. Evaluate arithmetic expressions containing a variable X
 2. Graph the expression using X as an independent variable
 
-The project initially started as a homework to Standford CS193P (iPhone apps development), which I was following on Itunes U.
-In the first implementation you had to specify expressions using postfix notation. Then I added support for infix notation using 
-the recursive descent method (I had earlier implemented it in Java in my Parser project) and improved the graphing module. Notice that
-I am using DrawAxes class provided in Stanford CS193P course to draw the coordinate system.
+The project initially started as a homework to Standford CS193P (iPhone apps development), which I was following on Itunes U. In the first implementation you had to specify expressions using postfix notation. Then I added support for infix notation using the recursive descent method (I had earlier implemented it in Java in my Parser project) and improved the graphing module. Notice that I am using DrawAxes class provided in Stanford CS193P course to draw the coordinate system.
 
 ##Usage
 1. Press "Set X" to specify the value of X variable
